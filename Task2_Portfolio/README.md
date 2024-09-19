@@ -1,6 +1,4 @@
-<h1>SNEAKERS-LANDINGPAGE</h1>
+# Portfolio< Repository
+This repository contains Portfolio that were developed to help developers learn and improve their skills in web development. 
 <br>
-Check out my self-made shoes website landing page by using HTML and CSS.
-<br>
-It's clean, modern, easy to use.
-
+Each project has its own folder and contains all the necessary files, including HTML,CSS.
