@@ -5,6 +5,6 @@
 
 " P01- Landing Page " 
 <br>
-" P02- Portfolio
+" P02- Portfolio "
 <br>
 " P03- Calculator App " 
