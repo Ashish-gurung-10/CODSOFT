@@ -1,4 +1,4 @@
-<h1>calculatorApp</h1>
+<h1>CalculatorApp</h1>
 <br>
 This repository contains calculatorApp that were developed to help developers learn and improve their skills in web development. 
 <br>
